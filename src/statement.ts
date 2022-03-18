@@ -21,7 +21,7 @@ export const statement = (format: StatementFormat, customer: any, movies: any, m
   result += `Amount owed is ${totalAmount}\n`;
   result += `You earned ${frequentRenterPoints} frequent renter points\n`;
 
-    let htmlResult = `<h1>Rental Record for <em>${customer.name}</em></h1>\n <ul>\n`;
+    let htmlResult = `<h1>Rental Record for <em>${customer.name}</em></h1>\n<ul>\n`;
     let totalAmountTwo = 0;
     let frequentRenterPointsTwo = 0;
       for (let r of customer.rentals) {
