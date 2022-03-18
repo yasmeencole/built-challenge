@@ -1,0 +1,44 @@
+{
+    "new":
+    {
+        "dailyRate": 3,
+        "rentalDays": 1,
+        "base": 3,
+        "bonusPoint": 1
+    },
+    "regular":
+    {
+        "dailyRate":2,
+        "rentalDays":2,
+        "base":1.5,
+        "bonusPoint": 0
+    },
+    "childrens":
+    { 
+        "dailyRate": 1.5,
+        "rentalDays": 3,
+        "base": 1.5,
+        "bonusPoint": 0
+    },
+    "scifi":
+    {
+        "dailyRate": 1.5,
+        "rentalDays": 2,
+        "base": 1,
+        "bonusPoint": 0 
+    },
+    "action":
+    { 
+        "dailyRate": 1.5,
+        "rentalDays": 2,
+        "base": 1,
+        "bonusPoint": 0
+    },
+    "drama":
+    {
+        "dailyRate": 1.5,
+        "rentalDays": 5,
+        "base": 1,
+        "bonusPoint": 0
+    }
+}
