@@ -7,6 +7,9 @@ export enum MovieCode {
   CHILDRENS = "childrens",
   REGULAR = "regular",
   NEW = "new",
+  SCIFI = "scifi",
+  ACTION = "action",
+  DRAMA = "drama"
 }
 
 interface MovieDetails {

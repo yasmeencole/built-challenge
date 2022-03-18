@@ -54,3 +54,14 @@ You earned 4 frequent renter points
 2. Include a rough estimate of how much time you spent working on the assignment.
 3. Also include any additional instructions / requirements for running your solution.
 4. Finally, please feel free - though you're not required - to provide some "documentation" to justify any tradeoffs you might have made when writing the code and what implications those tradeoffs may have in the future - especially for the second "task" above.
+
+### Built Challenge
+
+This is a challenege that shows a speific customer's movie rental records, which movies(s) the customer has rented, shows the individual cost of the movie(s), calculates the total cost of the movie(s) and the amount of frequent renter points that the customer has earned. 
+
+## How to Run Application
+
+* Clone Repository: 
+* Run `run npm install`
+* To run original statement `npm run statement`
+* To run modified html statment `npm run html-statement`
